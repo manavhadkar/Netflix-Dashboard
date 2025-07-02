@@ -1,9 +1,9 @@
 # Netflix-Dashboard
 
-**The Netflix Monthly Dashboard provides a data-rich, interactive view of Netflix’s global performance, offering granular insights into revenue and user behavior across different countries and device types. This dashboard enables teams to monitor financial trends, user engagement, and platform preferences on a country-by-country basis, helping drive strategic decisions across global markets.
-**
-**Key Features:
-**1.Monthly Revenue by Quarter (Global View):
+The Netflix Monthly Dashboard provides a data-rich, interactive view of Netflix’s global performance, offering granular insights into revenue and user behavior across different countries and device types. This dashboard enables teams to monitor financial trends, user engagement, and platform preferences on a country-by-country basis, helping drive strategic decisions across global markets.
+
+Key Features:
+1.Monthly Revenue by Quarter (Global View):
 Visual breakdown of total monthly revenue aggregated by fiscal quarters, segmented by country for comparative analysis.
 
 2.Sum of Monthly Revenue by Device:
